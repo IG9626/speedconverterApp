@@ -19,7 +19,7 @@ void draw() {
   textSize(22);
   text("Speed Converter", width/2, y+20);
   textSize(15);
-  text("By: XXXXXXXXXX", width/2, y+40);
+  text("By: IG9626", width/2, y+40);
   text("Miles per Hour:"+ (KilometersperhourConverter(mouseX)), width/2/2, y+100);
   //so that you can see were the mouse is on the screen
   noStroke();
